@@ -2,7 +2,7 @@
 // grading their student. They want you to build a solution. 
 // Build a Javascript program that grades student based on the following conditions. (1) Students with a score
 // 90 to 100 should be graded A. (2) Students with a score 75 to 89 should be graded B, (3) Students with a 
-// score 60 to 74 (4) Students with a score 50 to 59 should be graded D. should be graded C,
+// score 60 to 74 (4) Students with a score 50 to 59 should be graded D. should be graded C.
 
 
 
